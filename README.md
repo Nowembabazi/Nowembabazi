@@ -17,9 +17,12 @@
 - Webpack
 - React.js
 
-You can reach out to me on;
-EMAIL: nowembabazin8@gmail.com.
-TWITTER: @NowembabaziN.
-INSTAGRAM: @NICK_Mbabazi.
+You can reach out to me on; 
+
+-EMAIL: nowembabazin8@gmail.com.
+
+-TWITTER: @NowembabaziN.
+
+-INSTAGRAM: @NICK_Mbabazi.
 
 Thank you.💃
